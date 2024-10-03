@@ -1,0 +1,22 @@
+form {
+    padding: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+    width: 20%;
+}
+
+body {
+    color: #fff;
+}
+
+.container-fluid {
+    background-color: #21577A;
+}
+
+div .form-control {
+    border: none;
+}
+
+div button {
+    border: none;
+}
